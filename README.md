@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
 <h1 align="center">Hi 👋, I'm Vikas Yadav</h1>
-<h3 align="center">Full Stack Developer | Flutter | Firebase</h3>
+<h3 align="center">Full Stack Developer | App Development</h3>
 
 - 🔭 I’m currently working on [YELP](https://github.com/Vikas143k/YELP)
 
