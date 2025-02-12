@@ -86,6 +86,10 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 10px;" /> 
   </a> 
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" alt="react" width="40" height="40" style="margin: 10px;" /> 
+  </a> 
+  
 </p>
 
 
