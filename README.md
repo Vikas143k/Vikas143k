@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vikas143k](https://github.com/Vikas143k)
 
-- 💬 Ask me about **Javascript and Flutter**
+- 💬 Ask me about **Javascript | Flutter | Firbase | MERN**
 
 - 📫 How to reach me **vikyadav20000@gmail.com**
 
