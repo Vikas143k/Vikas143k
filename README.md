@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Vikas Yadav</h1>
 <h3 align="center">Full Stack Developer | App Development</h3>
 
-- 🔭 I’m currently working on [YELP](https://github.com/Vikas143k/YELP)
+- 🔭 I’m currently working on [Make Your Trip](https://github.com/Vikas143k/Make-Your-Trip)
 
 - 🌱 I’m currently learning **AI and Machine Learning**
 
